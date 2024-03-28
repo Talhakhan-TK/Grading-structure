@@ -1,0 +1,20 @@
+{
+  "name": "grading-structure",
+  "version": "1.0.3",
+  "description": "its 5 operator simple calculator",
+  "main": "g.js",
+  "type": "module",
+  "bin": "g.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Talha Khan TK",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
+
